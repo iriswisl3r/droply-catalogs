@@ -1,12 +1,173 @@
 {
   "format": "droply-product-catalog",
-  "version": 2,
+  "version": 3,
   "exportedAt": "2026-10-02T16:09:54.504Z",
   "catalog": {
     "name": "doTERRA Katalog DE",
     "currency": "EUR"
   },
   "products": [
+    
+    {
+      "n": "Abode",
+      "e": 30.25,
+      "v": 40.33,
+      "p": 29,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/abode-15ml-large-1720x1350.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "n": "Anchor",
+      "e": 26.25,
+      "v": 35,
+      "p": 25.5,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/anchor5ml-large-404x1350-eu.png",
+      "m": 5,
+      "productGroup": "single"
+    },
+    {
+      "n": "Arborvitae",
+      "e": 28.5,
+      "v": 38,
+      "p": 28,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/single-oils/arborvitae5ml-large-404x1350-eu.png",
+      "m": 5,
+      "productGroup": "single"
+    },
+    {
+      "n": "Adaptiv Touch",
+      "e": 32.25,
+      "v": 42.99,
+      "p": 32,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/adaptiv-10ml-large-301x1350-eu.png",
+      "m": 10,
+      "productGroup": "single"
+    },
+    {
+      "n": "Air Touch",
+      "e": 22.75,
+      "v": 30.33,
+      "p": 22,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/air/air10ml-large-301x1350-eu.png",
+      "m": 10,
+      "productGroup": "single"
+    },
+    {
+      "n": "Arise",
+      "e": 26.25,
+      "v": 35,
+      "p": 25.5,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/arise5ml-large-404x1350-eu.png",
+      "m": 5,
+      "productGroup": "single"
+    },
+    {
+      "n": "Adaptiv",
+      "e": 51,
+      "v": 68,
+      "p": 49.5,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/adaptiv-15ml-large-500x1350-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "n": "Anti-Aging Augencreme",
+      "e": 51.75,
+      "v": 69.01,
+      "p": 47.5,
+      "k": "Stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/essential-skin-care/anti-aging-eye-cream-large-170x1350px-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "n": "Anti-Aging Feuchtigkeitscreme",
+      "e": 48,
+      "v": 64.01,
+      "p": 40,
+      "k": "Stk",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/personal-care/essential-skin-care/anti-aging-moisturiser-large-280x1350px-eu.png",
+      "m": 50,
+      "productGroup": "single"
+    },
+    {
+      "n": "Air",
+      "e": 35.75,
+      "v": 47.66,
+      "p": 34.5,
+      "k": "Öl",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/air/air15ml-large-500x1350-eu.png",
+      "m": 15,
+      "productGroup": "single"
+    },
+    {
+      "n": "Alpha CRS™+ ",
+      "e": 79.5,
+      "v": 106,
+      "p": 81,
+      "k": "Kapseln",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/alpha-crs-plus-large-1720x1350.png",
+      "m": 120,
+      "productGroup": "single"
+    },
+    {
+      "n": "AromaTouch Technique™ Kit",
+      "e": 142.25,
+      "v": 189.67,
+      "p": 131.5,
+      "k": "Kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/collections/aromatouch-technique-kit-1088x1350px-eu.png",
+      "m": 1,
+      "productGroup": "bundle"
+    },
+    {
+      "n": "a2z Chewable™ Kinder-Kautabletten",
+      "e": 30.5,
+      "v": 40.66,
+      "p": 24.5,
+      "k": "Kapseln",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/a2z-chewables-large-1720x1350.png",
+      "m": 60,
+      "productGroup": "single"
+    },
+    {
+      "n": "Air™ Vapour Stick",
+      "e": 18,
+      "v": 24,
+      "p": 13.5,
+      "k": "G",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/air/air-vapor-stick-large-1720x1350.png",
+      "m": 15.5,
+      "productGroup": "single"
+    },
+    {
+      "n": "a2z Chewable™ Kautabletten und IQ Mega™ Pack",
+      "e": 60.75,
+      "v": 81.01,
+      "p": 60,
+      "k": "Kit",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/supplements/a2z-chewables-iq-mega-large-1720x1350.png",
+      "m": 2,
+      "productGroup": "bundle"
+    },
+    {
+      "n": "Adaptiv™ Kapseln",
+      "e": 43.75,
+      "v": 58.34,
+      "p": 36,
+      "k": "Kapseln",
+      "u": "https://prd-evo-content.doterra.com/europe/images/products/essential-oils/blends/adaptiv-calming-capsules-large-500x1350-eu.png",
+      "m": 30,
+      "productGroup": "single"
+    },
     {
       "n": "Bernsteinfarbene 10-ml-Roll-On-Flasche",
       "e": 6.25,
