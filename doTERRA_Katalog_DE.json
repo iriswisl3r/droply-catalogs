@@ -1,6 +1,6 @@
 {
   "format": "droply-product-catalog",
-  "version": 3,
+  "version": 4,
   "exportedAt": "2026-10-02T16:09:54.504Z",
   "catalog": {
     "name": "doTERRA Katalog DE",
@@ -9,7 +9,7 @@
   "products": [
     
     {
-      "n": "Abode",
+      "n": "Abode +",
       "e": 30.25,
       "v": 40.33,
       "p": 29,
